@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clemens Todos</string>
+    <string name="add_button">Speichern</string>
+    <string name="edit_task_description">Beschreibungstext</string>
+    <string name="high_priority">Hoch</string>
+    <string name="low_priority">Niedrig</string>
+    <string name="main_activity_name">Alle Todos</string>
+    <string name="med_priority">Mittel</string>
+    <string name="priority_string">Priorität</string>
+    <string name="delete_toast">Entfernt</string>
+    <string name="delete_success">Todo entfernt</string>
+    <string name="insert_success">Todo erfolgreich erstellt</string>
+    <string name="update_success">Todo erfolreich geändert</string>
+    <string name="backbuttonmessage">Änderungen speichern?</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+</resources>

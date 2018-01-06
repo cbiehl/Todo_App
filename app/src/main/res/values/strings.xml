@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Clemens Todos</string>
+    <string name="main_activity_name">All Todos</string>
+    <string name="add_task_activity_name" translatable="false">Add a New Todo</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="priority_1" translatable="false">1</string>
+    <string name="priority_2" translatable="false">2</string>
+    <string name="priority_3" translatable="false">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This edit task has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">Describe your todo&#8230;</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Save</string>
+
+    <string name="appbar_subtitle" translatable="false">Binh you go work!</string>
+
+    <string name="emptyID" translatable="false">\o</string>
+    <string name="update_success">Successfully updated task</string>
+    <string name="insert_success">Successfully created task</string>
+    <string name="delete_success">Deleted task</string>
+    <string name="nospeechrecognized">Couldn\'t recognize anything...</string>
+
+    <string name="backbuttonmessage">Do you want to save the entered data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="undo">UNDO</string>
+
+</resources>
